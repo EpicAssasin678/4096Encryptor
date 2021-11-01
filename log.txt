@@ -1,0 +1,1179 @@
+
+Updated character mapping: 
+{C=112}
+Updated character mapping: 
+{C=112, o=38}
+Updated character mapping: 
+{p=131, C=112, o=38}
+Updated character mapping: 
+{p=131, C=112, y=111, o=38}
+Updated character mapping: 
+{p=131, r=93, C=112, y=111, o=38}
+Updated character mapping: 
+{p=131, r=93, C=112, y=111, i=55, o=38}
+Updated character mapping: 
+{p=131, r=93, C=112, g=48, y=111, i=55, o=38}
+Updated character mapping: 
+{p=131, r=93, C=112, g=48, h=122, y=111, i=55, o=38}
+Updated character mapping: 
+{p=131, r=93, C=112, t=78, g=48, h=122, y=111, i=55, o=38}
+Updated character mapping: 
+{p=131,  =103, r=93, C=112, t=78, g=48, h=122, y=111, i=55, o=38}
+Updated character mapping: 
+{p=131,  =103, r=93, C=112, t=78, g=48, h=122, y=111, i=55, <=39, o=38}
+Updated character mapping: 
+{p=131,  =103, r=93, 2=57, C=112, t=78, g=48, h=122, y=111, i=55, <=39, o=38}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, p=131, 0=78, r=93, 2=57, t=78, y=111, <=39}
+Character encountered already, mapping character 257
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character  103
+Character encountered already, mapping character <39
+Character encountered already, mapping character C112
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, O=79, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, t=78, y=111, Y=141, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, y=111, Y=141, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, h=122, i=55, I=125, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, y=111, Y=141, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, G=40, h=122, i=55, I=125, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, y=111, Y=141, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, G=40, h=122, H=143, i=55, I=125, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, y=111, Y=141, <=39, >=145}
+Updated character mapping: 
+{ =103, C=112, g=48, G=40, h=122, H=143, i=55, I=125, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, T=157, y=111, Y=141, <=39, >=145}
+Character encountered already, mapping character  103
+Updated character mapping: 
+{ =103, C=112, g=48, G=40, h=122, H=143, i=55, I=125, o=38, O=79, p=131, 0=78, P=157, 1=42, r=93, 2=57, R=34, t=78, T=157, y=111, Y=141, Z=88, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, Y=141, Z=88,  =103, a=110, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, Y=141, Z=88,  =103, a=110, c=101, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character h122
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character r93
+Character encountered already, mapping character y111
+Character encountered already, mapping character  103
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character p131
+Character encountered already, mapping character o38
+Character encountered already, mapping character r93
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, k=36, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character y111
+Character encountered already, mapping character >145
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, k=36, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, k=36, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Character encountered already, mapping character P157
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, k=36, m=111, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character s149
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, c=101, e=75, g=48, h=122, i=55, k=36, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, e=75, g=48, h=122, i=55, k=36, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character y111
+Character encountered already, mapping character  103
+Character encountered already, mapping character g48
+Character encountered already, mapping character r93
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character t78
+Character encountered already, mapping character e75
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, g=48, h=122, i=55, k=36, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, g=48, h=122, i=55, k=36, ,=114, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character  103
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, k=36, ,=114, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, y=111, <=39, >=145}
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character h122
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character g48
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character y111
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character s149
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character b152
+Character encountered already, mapping character t78
+Character encountered already, mapping character a110
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character g48
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character p131
+Character encountered already, mapping character y111
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, k=36, ,=114, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character s149
+Character encountered already, mapping character s149
+Character encountered already, mapping character o38
+Character encountered already, mapping character c101
+Character encountered already, mapping character i55
+Character encountered already, mapping character a110
+Character encountered already, mapping character t78
+Character encountered already, mapping character e75
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character d85
+Character encountered already, mapping character o38
+Character encountered already, mapping character c101
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, k=36, ,=114, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character m111
+Character encountered already, mapping character e75
+Character encountered already, mapping character n50
+Character encountered already, mapping character t78
+Character encountered already, mapping character a110
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character f146
+Character encountered already, mapping character i55
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, k=36, ,=114, l=124, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character e75
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, k=36, ,=114, l=124, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, k=36, ,=114, l=124, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, k=36, ,=114, l=124, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Character encountered already, mapping character w48
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character "120
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, )=142, k=36, ,=114, l=124, m=111, n=50, o=38, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character d85
+Character encountered already, mapping character e75
+Character encountered already, mapping character a110
+Character encountered already, mapping character l124
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Character encountered already, mapping character w48
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character w48
+Character encountered already, mapping character i55
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character o38
+Character encountered already, mapping character u36
+Character encountered already, mapping character t78
+Character encountered already, mapping character  103
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character s149
+Character encountered already, mapping character t78
+Character encountered already, mapping character r93
+Character encountered already, mapping character i55
+Character encountered already, mapping character c101
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character c101
+Character encountered already, mapping character l124
+Character encountered already, mapping character u36
+Character encountered already, mapping character d85
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character g48
+Character encountered already, mapping character  103
+Character encountered already, mapping character w48
+Character encountered already, mapping character i55
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character o38
+Character encountered already, mapping character u36
+Character encountered already, mapping character t78
+Character encountered already, mapping character  103
+Character encountered already, mapping character l124
+Character encountered already, mapping character i55
+Character encountered already, mapping character m111
+Character encountered already, mapping character i55
+Character encountered already, mapping character t78
+Character encountered already, mapping character a110
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character r93
+Character encountered already, mapping character i55
+Character encountered already, mapping character g48
+Character encountered already, mapping character h122
+Character encountered already, mapping character t78
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character u36
+Character encountered already, mapping character s149
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character p131
+Character encountered already, mapping character y111
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character m111
+Character encountered already, mapping character o38
+Character encountered already, mapping character d85
+Character encountered already, mapping character i55
+Character encountered already, mapping character f146
+Character encountered already, mapping character y111
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character m111
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character g48
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character u36
+Character encountered already, mapping character b152
+Character encountered already, mapping character l124
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character h122
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character d85
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character t78
+Character encountered already, mapping character r93
+Character encountered already, mapping character i55
+Character encountered already, mapping character b152
+Character encountered already, mapping character u36
+Character encountered already, mapping character t78
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character u36
+Character encountered already, mapping character b152
+Character encountered already, mapping character l124
+Character encountered already, mapping character i55
+Character encountered already, mapping character c101
+Character encountered already, mapping character e75
+Character encountered already, mapping character n50
+Character encountered already, mapping character s149
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character d85
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, )=142, k=36, ,=114, l=124, m=111, n=50, o=38, /=53, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character o38
+Character encountered already, mapping character r93
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character e75
+Character encountered already, mapping character l124
+Character encountered already, mapping character l124
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character p131
+Character encountered already, mapping character i55
+Character encountered already, mapping character e75
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Character encountered already, mapping character w48
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character m111
+Character encountered already, mapping character i55
+Character encountered already, mapping character t78
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character s149
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character w48
+Character encountered already, mapping character h122
+Character encountered already, mapping character o38
+Character encountered already, mapping character m111
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Character encountered already, mapping character w48
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character f146
+Character encountered already, mapping character u36
+Character encountered already, mapping character r93
+Character encountered already, mapping character n50
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character d85
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character o38
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character u36
+Character encountered already, mapping character b152
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, )=142, j=40, k=36, ,=114, l=124, m=111, n=50, o=38, /=53, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, <=39, >=145}
+Character encountered already, mapping character e75
+Character encountered already, mapping character c101
+Character encountered already, mapping character t78
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character o38
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character f146
+Character encountered already, mapping character o38
+Character encountered already, mapping character l124
+Character encountered already, mapping character l124
+Character encountered already, mapping character o38
+Character encountered already, mapping character w48
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character g48
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character d85
+Character encountered already, mapping character i55
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character s149
+Updated character mapping: 
+{C=112, G=40, H=143, I=125, 
+=143, =154, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88,  =103, a=110, b=152, "=120, c=101, d=85, e=75, f=146, g=48, h=122, (=94, i=55, )=142, j=40, k=36, ,=114, l=124, m=111, n=50, o=38, /=53, p=131, 0=78, 1=42, r=93, 2=57, s=149, t=78, u=36, w=48, y=111, :=65, <=39, >=145}
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Character encountered already, mapping character T157
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character b152
+Character encountered already, mapping character o38
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, C=112, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character p131
+Character encountered already, mapping character y111
+Character encountered already, mapping character r93
+Character encountered already, mapping character i55
+Character encountered already, mapping character g48
+Character encountered already, mapping character h122
+Character encountered already, mapping character t78
+Character encountered already, mapping character  103
+Character encountered already, mapping character n50
+Character encountered already, mapping character o38
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character c101
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character e75
+Character encountered already, mapping character r93
+Character encountered already, mapping character m111
+Character encountered already, mapping character i55
+Character encountered already, mapping character s149
+Character encountered already, mapping character s149
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character n50
+Character encountered already, mapping character o38
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character c101
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character h122
+Character encountered already, mapping character a110
+Character encountered already, mapping character l124
+Character encountered already, mapping character l124
+Character encountered already, mapping character  103
+Character encountered already, mapping character b152
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character c101
+Character encountered already, mapping character l124
+Character encountered already, mapping character u36
+Character encountered already, mapping character d85
+Character encountered already, mapping character e75
+Character encountered already, mapping character d85
+Character encountered already, mapping character  103
+Character encountered already, mapping character i55
+Character encountered already, mapping character n50
+Character encountered already, mapping character  103
+Character encountered already, mapping character a110
+Character encountered already, mapping character l124
+Character encountered already, mapping character l124
+Character encountered already, mapping character  103
+Character encountered already, mapping character c101
+Character encountered already, mapping character o38
+Character encountered already, mapping character p131
+Character encountered already, mapping character i55
+Character encountered already, mapping character e75
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character r93
+Character encountered already, mapping character  103
+Character encountered already, mapping character s149
+Character encountered already, mapping character u36
+Character encountered already, mapping character b152
+Character encountered already, mapping character s149
+Character encountered already, mapping character t78
+Character encountered already, mapping character a110
+Character encountered already, mapping character n50
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character a110
+Character encountered already, mapping character l124
+Character encountered already, mapping character  103
+Character encountered already, mapping character p131
+Character encountered already, mapping character o38
+Character encountered already, mapping character r93
+Character encountered already, mapping character t78
+Character encountered already, mapping character i55
+Character encountered already, mapping character o38
+Character encountered already, mapping character n50
+Character encountered already, mapping character s149
+Character encountered already, mapping character  103
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character  103
+Character encountered already, mapping character t78
+Character encountered already, mapping character h122
+Character encountered already, mapping character e75
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character o38
+Character encountered already, mapping character f146
+Character encountered already, mapping character t78
+Character encountered already, mapping character w48
+Character encountered already, mapping character a110
+Character encountered already, mapping character r93
+Character encountered already, mapping character e75
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, C=112, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, C=112, E=136, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character O79
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, C=112, E=136, F=140, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character T157
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, C=112, E=136, F=140, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, E=136, F=140, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character R34
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character P157
+Character encountered already, mapping character R34
+Character encountered already, mapping character O79
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, E=136, F=140, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character I125
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character E136
+Character encountered already, mapping character D127
+Character encountered already, mapping character  103
+Character encountered already, mapping character "120
+Character encountered already, mapping character A87
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character S135
+Character encountered already, mapping character "120
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character W81
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character O79
+Character encountered already, mapping character U135
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character W81
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character R34
+Character encountered already, mapping character A87
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character T157
+Character encountered already, mapping character Y141
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character Y141
+Character encountered already, mapping character  103
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, K=42, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character D127
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character E136
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, K=42, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, X=112, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character P157
+Character encountered already, mapping character R34
+Character encountered already, mapping character E136
+Character encountered already, mapping character S135
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, K=42, M=49, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, X=112, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character P157
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, C=112, D=127, E=136, F=140, G=40, H=143, I=125, K=42, L=44, M=49, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, X=112, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character I125
+Character encountered already, mapping character E136
+Character encountered already, mapping character D127
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character C112
+Character encountered already, mapping character L44
+Character encountered already, mapping character U135
+Character encountered already, mapping character D127
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character G40
+Character encountered already, mapping character  103
+Updated character mapping: 
+{
+=143, =154,  =103, "=120, (=94, )=142, ,=114, .=132, /=53, 0=78, 1=42, 2=57, :=65, <=39, >=145, A=87, B=51, C=112, D=127, E=136, F=140, G=40, H=143, I=125, K=42, L=44, M=49, N=142, O=79, P=157, R=34, S=135, T=157, U=135, V=133, W=81, X=112, Y=141, Z=88, a=110, b=152, c=101, d=85, e=75, f=146, g=48, h=122, i=55, j=40, k=36, l=124, m=111, n=50, o=38, p=131, r=93, s=149, t=78, u=36, v=69, w=48, y=111}
+Character encountered already, mapping character U135
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character N142
+Character encountered already, mapping character O79
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character M49
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character E136
+Character encountered already, mapping character D127
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character O79
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character W81
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character R34
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character T157
+Character encountered already, mapping character I125
+Character encountered already, mapping character E136
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character  103
+Character encountered already, mapping character M49
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character C112
+Character encountered already, mapping character H143
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character T157
+Character encountered already, mapping character A87
+Character encountered already, mapping character B51
+Character encountered already, mapping character I125
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character Y141
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character F140
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character N142
+Character encountered already, mapping character E136
+Character encountered already, mapping character S135
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character F140
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character  103
+Character encountered already, mapping character P157
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character T157
+Character encountered already, mapping character I125
+Character encountered already, mapping character C112
+Character encountered already, mapping character U135
+Character encountered already, mapping character L44
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character P157
+Character encountered already, mapping character U135
+Character encountered already, mapping character R34
+Character encountered already, mapping character P157
+Character encountered already, mapping character O79
+Character encountered already, mapping character S135
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character D127
+Character encountered already, mapping character  103
+Character encountered already, mapping character N142
+Character encountered already, mapping character O79
+Character encountered already, mapping character N142
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character F140
+Character encountered already, mapping character R34
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character G40
+Character encountered already, mapping character E136
+Character encountered already, mapping character M49
+Character encountered already, mapping character E136
+Character encountered already, mapping character N142
+Character encountered already, mapping character T157
+Character encountered already, mapping character .132
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character N142
+Character encountered already, mapping character O79
+Character encountered already, mapping character  103
+Character encountered already, mapping character E136
+Character encountered already, mapping character V133
+Character encountered already, mapping character E136
+Character encountered already, mapping character N142
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character H143
+Character encountered already, mapping character A87
+Character encountered already, mapping character L44
+Character encountered already, mapping character L44
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character U135
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character C112
+Character encountered already, mapping character O79
+Character encountered already, mapping character P157
+Character encountered already, mapping character Y141
+Character encountered already, mapping character R34
+Character encountered already, mapping character I125
+Character encountered already, mapping character G40
+Character encountered already, mapping character H143
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character H143
+Character encountered already, mapping character O79
+Character encountered already, mapping character L44
+Character encountered already, mapping character D127
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character B51
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character A87
+Character encountered already, mapping character B51
+Character encountered already, mapping character L44
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character F140
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character Y141
+Character encountered already, mapping character  103
+Character encountered already, mapping character C112
+Character encountered already, mapping character L44
+Character encountered already, mapping character A87
+Character encountered already, mapping character I125
+Character encountered already, mapping character M49
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character D127
+Character encountered already, mapping character A87
+Character encountered already, mapping character M49
+Character encountered already, mapping character A87
+Character encountered already, mapping character G40
+Character encountered already, mapping character E136
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character A87
+Character encountered already, mapping character B51
+Character encountered already, mapping character I125
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character Y141
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character W81
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character C112
+Character encountered already, mapping character T157
+Character encountered already, mapping character I125
+Character encountered already, mapping character O79
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character  103
+Character encountered already, mapping character C112
+Character encountered already, mapping character O79
+Character encountered already, mapping character N142
+Character encountered already, mapping character T157
+Character encountered already, mapping character R34
+Character encountered already, mapping character A87
+Character encountered already, mapping character C112
+Character encountered already, mapping character T157
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character W81
+Character encountered already, mapping character I125
+Character encountered already, mapping character S135
+Character encountered already, mapping character E136
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character I125
+Character encountered already, mapping character S135
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character G40
+Character encountered already, mapping character  103
+Character encountered already, mapping character F140
+Character encountered already, mapping character R34
+Character encountered already, mapping character O79
+Character encountered already, mapping character M49
+Character encountered already, mapping character ,114
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character U135
+Character encountered already, mapping character T157
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character C112
+Character encountered already, mapping character O79
+Character encountered already, mapping character N142
+Character encountered already, mapping character N142
+Character encountered already, mapping character E136
+Character encountered already, mapping character C112
+Character encountered already, mapping character T157
+Character encountered already, mapping character I125
+Character encountered already, mapping character O79
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character W81
+Character encountered already, mapping character I125
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character T157
+Character encountered already, mapping character W81
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character U135
+Character encountered already, mapping character S135
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character O79
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character R34
+Character encountered already, mapping character  103
+Character encountered already, mapping character D127
+Character encountered already, mapping character E136
+Character encountered already, mapping character A87
+Character encountered already, mapping character L44
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character G40
+Character encountered already, mapping character S135
+Character encountered already, mapping character  103
+Character encountered already, mapping character I125
+Character encountered already, mapping character N142
+Character encountered already, mapping character  103
+Character encountered already, mapping character T157
+Character encountered already, mapping character H143
+Character encountered already, mapping character E136
+Character encountered already, mapping character  103
+Character encountered already, mapping character S135
+Character encountered already, mapping character O79
+Character encountered already, mapping character F140
+Character encountered already, mapping character T157
+Character encountered already, mapping character W81
+Character encountered already, mapping character A87
+Character encountered already, mapping character R34
+Character encountered already, mapping character E136
+Character encountered already, mapping character .132
+Character encountered already, mapping character 154
+Character encountered already, mapping character 
+143
+Generating resolute key.
+[10:143,13:154,32:103,34:120,40:94,41:142,44:114,46:132,47:53,48:78,49:42,50:57,58:65,60:39,62:145,65:87,66:51,67:112,68:127,69:136,70:140,71:40,72:143,73:125,75:42,76:44,77:49,78:142,79:79,80:157,82:34,83:135,84:157,85:135,86:133,87:81,88:112,89:141,90:88,97:110,98:152,99:101,100:85,101:75,102:146,103:48,104:122,105:55,106:40,107:36,108:124,109:111,110:50,111:38,112:131,114:93,115:149,116:78,117:36,118:69,119:48,121:111,]
+Generated resolute key sucessfully.
