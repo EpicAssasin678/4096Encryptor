@@ -1,5 +1,6 @@
 import java.io.InputStream;
-
+import java.lang.Runtime;
+import java.util.ArrayList;
 public class App {
 
     /**
@@ -28,10 +29,34 @@ public class App {
                 bar = i%1000 == 0 ? bar.substring(0, ((i/1000) * 2)) + (char)9648  +  bar.substring((i/1000 * 2) + 1, 19) : bar; //2011 for old character used 
                 System.out.println("\033[H\033[2J"); //could use if for proper use, but not necessary
                 System.out.flush();
+                ArrayList<Integer> n = new ArrayList<Integer>();
+                
             } catch (StringIndexOutOfBoundsException e){
+                
             }
             
-        }    
+        }
+        
+        
+
+        
+        
+        for (int i = 0; i < 50; i++) {
+            System.out.println((char) 9692);
+            System.out.println("\033[H\033[2J");
+            Thread.sleep(20);
+            System.out.println((char) 9693);
+            
+            System.out.println("\033[H\033[2J");
+            Thread.sleep(20);
+            System.out.println((char) 9694);            
+            System.out.println("\033[H\033[2J");
+            Thread.sleep(20);
+            System.out.println((char) 9695);
+            
+            System.out.println("\033[H\033[2J");
+            Thread.sleep(20);
+        }
     }
 
 }

@@ -49,7 +49,6 @@ public class ThrowAwayEncryptor {
 
     }
 
-
     public void encrypt (File input, File output) throws Exception {
         //input only files into encryption method
         encrypt(input, output, 127, false, null, null, "UTF-8");
@@ -127,9 +126,7 @@ public class ThrowAwayEncryptor {
                 }
             }
         }
-        //keyWriter.write(characterMapping.toString());
-
-
+        
         System.out.println("Encryption completed succesfully.");
         keyWriter.write( generateResoluteKey(characterMapping, logWriter) );
         fileWriter.close();
@@ -138,6 +135,7 @@ public class ThrowAwayEncryptor {
             logWriter.close();
         }
     }
+
     
     public String generateResoluteKey(HashMap<Character, Integer> mapping, FileWriter logWriter) throws Exception{
 
@@ -171,6 +169,16 @@ public class ThrowAwayEncryptor {
         resoluteKey = null;
     }
 
+    /**
+     * Decryption method doesn't full decrypt yet with simple automatic decryption.
+     * @param input
+     * @param output
+     * @param key
+     * @param log
+     * @param throwAway
+     * @param verbose
+     * @throws Exception
+     */
     public void decrypt (File input, File output, File key, File log, boolean throwAway, boolean verbose) throws Exception {
         wipe();
         output.createNewFile(); //wont't occur if it already has the file
@@ -182,9 +190,9 @@ public class ThrowAwayEncryptor {
 
         char currentChar;
         
+        long totalSize;
         if (verbose) {
-            //!make estimate of characters to read
-            input.getTotalSpace();
+            totalSize = input.getTotalSpace();
         }
 
         String outputmsg ="";
@@ -193,8 +201,6 @@ public class ThrowAwayEncryptor {
         String bar = "";
         //System.out.println(String.format(progressBar, "Progress",  i/100, "%", bar));
         System.out.println(outputmsg += "Beggining Decryption.\nInterperating resolute key.");
-        //System.out.println(keyReader2.read());
-        //System.out.println(keyReader.nextLine());
         //Make mapping based on string of resolutekey.split(",").split(":") and go by pairs of two, i += 2 i = 0, also reverse order for O(1) time complexity decrpytion
         resoluteKey = keyReader.nextLine();
         for (String pair: resoluteKey.split(",") ) {
